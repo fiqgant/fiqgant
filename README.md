@@ -33,8 +33,6 @@
   <img src="https://fiqspotify.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </div>
 
-
-<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqgant&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </div>
