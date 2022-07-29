@@ -6,7 +6,8 @@
 
 
 <h3 align="center">🌎 Web</h3>
-<p href="https://www.fiqlab.dev/" align="center">fiqlab.dev</p>
+<code><img height="25" src="https://icon-library.com/images/rocketship-icon/rocketship-icon-0.jpg"></code>
+<a href="https://www.fiqlab.dev/">Website</a>
 
 
 
