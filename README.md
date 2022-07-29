@@ -21,32 +21,29 @@
   <img src="https://img.shields.io/badge/-Blender-orange?style=for-the-badge&logo=blender&logoColor=white&labelColor=black">
 </div>
 
+<br>
 
 <div align="center" href="https://open.spotify.com/user/vfhjxx90e265vhi0fr9n1ivp6">
   <img src="https://fiqspotify.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </div>
 
+<br>
 <div align="center">
  
 📝 [Website](https://www.fiqlab.dev/) | 🖌️ [3D Art Gallery](https://fiqart.vercel.app/)
 
 </div>
+
+<br>
 <div align="center">
-  👨‍💻[Website](https://www.fiqlab.dev/)
-  🖌️[3D Art Gallery](https://fiqart.vercel.app/)
-</div>
-
-<h3>📈</h3>
-
-<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqgant&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </div>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fiqgant&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
 </div>
 
-<div>
+<div align="center">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=fiqgant&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
