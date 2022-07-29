@@ -26,7 +26,11 @@
   <img src="https://fiqspotify.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </div>
 
+<div align="center">
+ 
+📝[Resume](https://github.com/pycoder2000/Portfolio-Resume/blob/main/resume.pdf) | 👨‍💻 [Website](https://parthdesai.vercel.app/) | ✍️ [Blog](https://musing.vercel.app)
 
+</div>
 <div align="center">
   👨‍💻[Website](https://www.fiqlab.dev/)
   🖌️[3D Art Gallery](https://fiqart.vercel.app/)
