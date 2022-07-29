@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/-Streamlit-pink?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-OpenCV-red?style=for-the-badge&logo=opencv&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Adobe Photoshop-blueviolet?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Adobe Premiere Pro-blue?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Adobe After Effects-informational?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Neovim-green?style=for-the-badge&logo=neovim&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Cinema 4D-blue?style=for-the-badge&logo=cinema4d&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Blender-orange?style=for-the-badge&logo=blender&logoColor=white&labelColor=black">
 </div>
@@ -28,9 +26,12 @@
   <img src="https://fiqspotify.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </div>
 
-<h3>🌎 Website</h3>
-- [Personal Website](https://www.fiqlab.dev/)
-- [3D Art Gallery](https://fiqart.vercel.app/)
+
+<div align="center">
+  <h3>🌎 Website</h3>
+  👨‍💻[Website](https://www.fiqlab.dev/)
+  🖌️[3D Art Gallery](https://fiqart.vercel.app/)
+</div>
 
 <h3>📈</h3>
 
