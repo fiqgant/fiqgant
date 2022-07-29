@@ -47,10 +47,14 @@
 </div>
 
 
+<div align="center">
+ <h3>Credits</h3>
+📝 [Website](https://www.fiqlab.dev/)
+🖌️ [3D Art Gallery](https://fiqart.vercel.app/)
+
+</div>
+
+
 <img src="Images/Rainbow.gif" width="100%">
 
-#Credits
-<div>
-[Pycoder2000](https://github.com/pycoder2000)
-[itstommi](https://github.com/itstommi/)
-</div>
+
