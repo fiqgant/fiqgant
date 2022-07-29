@@ -48,7 +48,7 @@
 
 
 <div align="center">
-Credits
+ 
 📝 [Website](https://www.fiqlab.dev/)
 🖌️ [3D Art Gallery](https://fiqart.vercel.app/)
 
