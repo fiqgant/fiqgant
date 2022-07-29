@@ -28,7 +28,7 @@
 
 <div align="center">
  
-📝[Resume](https://github.com/pycoder2000/Portfolio-Resume/blob/main/resume.pdf) | 👨‍💻 [Website](https://parthdesai.vercel.app/) | ✍️ [Blog](https://musing.vercel.app)
+📝 [Website](https://www.fiqlab.dev/) | 🖌️ [3D Art Gallery](https://fiqart.vercel.app/)
 
 </div>
 <div align="center">
