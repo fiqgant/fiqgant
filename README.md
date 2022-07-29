@@ -48,3 +48,9 @@
 
 
 <img src="Images/Rainbow.gif" width="100%">
+
+#Credits
+<div>
+[Pycoder2000](https://github.com/pycoder2000)
+[itstommi](https://github.com/itstommi/)
+</div>
