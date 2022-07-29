@@ -51,9 +51,9 @@
 
 <div align="center">
   
-Credits
-[Website](https://www.fiqlab.dev/)
-[3D Art Gallery](https://fiqart.vercel.app/)
+Credits : 
+[itstommi](https://github.com/itstommi)
+[Pycoder2000](https://github.com/pycoder2000)
 
 </div>
 
