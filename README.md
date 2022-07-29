@@ -52,7 +52,7 @@
 <div align="center">
   
 Credits : 
-[itstommi](https://github.com/itstommi)
+[itstommi](https://github.com/itstommi) | 
 [Pycoder2000](https://github.com/pycoder2000)
 
 </div>
