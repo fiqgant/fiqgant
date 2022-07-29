@@ -11,7 +11,7 @@
 📝 [Website](https://www.fiqlab.dev/) | 🖌️ [3D Art Gallery](https://fiqart.vercel.app/)
 
 </div>
-<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
