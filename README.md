@@ -14,5 +14,6 @@
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Streamlit-pink?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=black">
 </div>
 
