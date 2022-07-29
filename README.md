@@ -47,10 +47,10 @@
 </div>
 
 
-<h3 align="center"Credits</h3>
+
 
 <div align="center">
- 
+ <h3 align="center"Credits</h3>
 [Website](https://www.fiqlab.dev/)
 [3D Art Gallery](https://fiqart.vercel.app/)
 
