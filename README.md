@@ -15,5 +15,9 @@
   <img src="https://img.shields.io/badge/-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Streamlit-pink?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-OpenCV-red?style=for-the-badge&logo=opencv&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Cinema 4D-orange?style=for-the-badge&logo=cinema4d&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Blender-orange?style=for-the-badge&logo=blender&logoColor=white&labelColor=black">
 </div>
 
