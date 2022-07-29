@@ -28,7 +28,6 @@
 
 
 <div align="center">
-  <h3>🌎 Website</h3>
   👨‍💻[Website](https://www.fiqlab.dev/)
   🖌️[3D Art Gallery](https://fiqart.vercel.app/)
 </div>
