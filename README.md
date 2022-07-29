@@ -24,9 +24,9 @@
 </div>
 
 
-<a align="center" href="https://open.spotify.com/user/vfhjxx90e265vhi0fr9n1ivp6">
+<div align="center" href="https://open.spotify.com/user/vfhjxx90e265vhi0fr9n1ivp6">
   <img src="https://fiqspotify.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
+</div>
 
 <h3>🌎 Website</h3>
 - [Personal Website](https://www.fiqlab.dev/)
