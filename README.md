@@ -7,6 +7,12 @@
 <h3 align="center">Hey there, I’m Fiq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 <div align="center">
+ 
+📝 [Website](https://www.fiqlab.dev/) | 🖌️ [3D Art Gallery](https://fiqart.vercel.app/)
+
+</div>
+<br>
+<div align="center">
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Flutter-indigo?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black">
@@ -27,12 +33,6 @@
   <img src="https://fiqspotify.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </div>
 
-<br>
-<div align="center">
- 
-📝 [Website](https://www.fiqlab.dev/) | 🖌️ [3D Art Gallery](https://fiqart.vercel.app/)
-
-</div>
 
 <br>
 <div align="center">
