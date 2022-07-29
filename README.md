@@ -6,7 +6,7 @@
 
 
 <h3 align="center">🌎 Web</h3>
-<p align="center">fiqlab.dev</p>
+<p href="https://www.fiqlab.dev/" align="center">fiqlab.dev</p>
 
 
 
