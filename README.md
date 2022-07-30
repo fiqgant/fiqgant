@@ -58,3 +58,5 @@
 
 - *Analysis of Dimensional Reduction Effect on K-Nearest Neighbor Classification Method.* Taufiqurrahman, Erna Budhiarti Nababan, Syahril Efendi. **Sinkron : Jurnal dan Penelitian Teknik Informatika**. [Paper](https://jurnal.polgan.ac.id/index.php/sinkron/article/view/11234)
 
+
+<img src="Images/Rainbow.gif" width="100%">
