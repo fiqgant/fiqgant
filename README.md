@@ -51,7 +51,7 @@
 # Publication
 
 ## Master's Thesis
-- *Linear Discriminant Analysis (LDA) On K-Nearest Neighbour (KNN) Algorithm For Attribute Reduction* [Pdf in Indonesia](https://repositori.usu.ac.id/bitstream/handle/123456789/47191/187038052.pdf?sequence=1&isAllowed=y)
+- *Linear Discriminant Analysis (LDA) On K-Nearest Neighbour (KNN) Algorithm For Attribute Reduction* [Pdf in Indonesian](https://repositori.usu.ac.id/bitstream/handle/123456789/47191/187038052.pdf?sequence=1&isAllowed=y)
 
 ## Journal
 ### 2022
