@@ -46,6 +46,7 @@
  <img src="http://github-readme-streak-stats.herokuapp.com?user=fiqgant&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
+<br>
 <p align="center"><strong>Connect with Me:</strong></p>
 <p align="center">
     <a href="https://twitter.com/fiqgant" style="text-decoration: none;">
