@@ -46,7 +46,27 @@
  <img src="http://github-readme-streak-stats.herokuapp.com?user=fiqgant&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
+<p align="center"><strong>Connect with Me:</strong></p>
+<p align="center">
+    <a href="https://twitter.com/fiqgant" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter Profile">
+    </a>
+    <a href="https://linkedin.com/in/fiqgant" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="Linked In Profile">
+    </a>
+    <a href="https://instagram.com/fiqgant" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram Profile">
+    </a>
+</p>
+<p align="center"><strong>Or,</strong></p>
+<ul>
+    <li>Open your Terminal</li>
+    <li>Run:</li>
+</ul>
 
+```bash
+npx tfqrrhmn
+```
 
 # Publication
 
