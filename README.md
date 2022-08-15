@@ -36,6 +36,13 @@
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fiqgant&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5" alt="Stats" width="400px">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=fiqgant&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF" alt="Streaks" width="400px">
+</p>
+
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=fiqgant&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"></p>
+
 <br>
 <p align="center"><strong>Connect with Me:</strong></p>
 <p align="center">
@@ -73,5 +80,13 @@ npx tfqrrhmn
 
 - *Analysis of Dimensional Reduction Effect on K-Nearest Neighbor Classification Method.* Taufiqurrahman, Erna Budhiarti Nababan, Syahril Efendi. **Sinkron : Jurnal dan Penelitian Teknik Informatika**. [Paper](https://jurnal.polgan.ac.id/index.php/sinkron/article/view/11234)
 
+<p align="left">
+     <a href="mailto:fiqgant@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask TenTraicion" align="left">
+    </a>
+    <a href="https://fiqlab.dev" style="text-decoration: none;">
+        <img src="https://komarev.com/ghpvc/?username=fiqgant&label=Visitors&color=0e75b6&style=flat" alt="Viewers Count" align="right">
+    </a>
+</p>
 
 <img src="Images/Rainbow.gif" width="100%">
