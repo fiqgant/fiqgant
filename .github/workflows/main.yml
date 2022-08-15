@@ -23,17 +23,7 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Jakarta
           config_twemoji: yes
-          plugin_activity: yes
-          plugin_activity_days: 7
-          plugin_activity_filter: all
-          plugin_activity_limit: 4
-          plugin_activity_load: 300
-          plugin_activity_timestamps: yes
-          plugin_activity_visibility: all
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
-          
+
           #starred
           plugin_topics: yes
           plugin_topics_limit: 0
