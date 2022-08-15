@@ -7,13 +7,9 @@
 <h3 align="center">Hey there, I’m Fiq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 <div align="center">
- 
 📝 [Website](https://www.fiqlab.dev/)
 🖌️ [3D Art Gallery](https://fiqart.vercel.app/)
-
 </div>
-
-<br>
 
 <div align="center" href="https://open.spotify.com/user/vfhjxx90e265vhi0fr9n1ivp6">
   <img src="https://fiqspotify.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
