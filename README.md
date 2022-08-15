@@ -8,7 +8,7 @@
 
 <div align="center">
   <img href="https://fiqlab.dev" src="https://img.shields.io/website?color=blue&down_message=fiqlab&label=Personal%20Website&logo=gnometerminal&style=for-the-badge&up_color=%230000&up_message=fiqlab.dev&url=https%3A%2F%2Ffiqlab.dev">
-   <img href="https://fiqlab.dev" src="https://img.shields.io/website?color=blue&down_message=fiqlab&label=Virtual%20Gallery&logo=airplayvideo&style=for-the-badge&up_color=%230000&up_message=fiqlab.dev&url=https%3A%2F%2Ffiqlab.dev">
+   <img href="https://fiqlab.dev" src="https://img.shields.io/website?color=blue&down_message=fiqlab&label=Virtual%20Gallery&logo=airplayvideo&style=for-the-badge&up_color=%230000&up_message=fiqart.vercel.app&url=https%3A%2F%2Ffiqart.vercel.app&">
 </div>
 
 <div align="center" href="https://open.spotify.com/user/vfhjxx90e265vhi0fr9n1ivp6">
