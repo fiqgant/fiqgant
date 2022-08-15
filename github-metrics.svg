@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1651" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1161" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.ct-chart{display:flex;margin-left:-12px}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area{fill:#87ceeb}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{display:inline-block}.ct-chart{display:flex;margin-left:-12px}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area{fill:#87ceeb}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            479 Commits
+                            480 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -204,108 +204,6 @@
                     </section>
                 </div>
             </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
-                    </svg>
-                    <span class="followup-title">Overall issues and pull requests status</span>
-                </h2>
-            </section>
-            <div class="column largeable">
-                <h3>On Taufiqurrahman's repositories</h3>
-                <div class="row fill-width">
-                    <section class="column">
-                        <h3 class="no-margin-top">Issues</h3>
-                        <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="220" height="8">
-                            <mask id="issues-bar">
-                                <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
-                            </mask>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="220" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#c9d1d9"/>
-                        </svg>
-                        <div class="followup legend field fill-width">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                    <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                </svg>
-                                <span class="no-wrap">0 <small>open</small></span>
-                            </div>
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                    <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                </svg>
-                                <span class="no-wrap">0 <small>closed</small></span>
-                            </div>
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#8B949E" d="M6.749.097a8.054 8.054 0 012.502 0 .75.75 0 11-.233 1.482 6.554 6.554 0 00-2.036 0A.75.75 0 016.749.097zM4.345 1.693A.75.75 0 014.18 2.74a6.542 6.542 0 00-1.44 1.44.75.75 0 01-1.212-.883 8.042 8.042 0 011.769-1.77.75.75 0 011.048.166zm7.31 0a.75.75 0 011.048-.165 8.04 8.04 0 011.77 1.769.75.75 0 11-1.214.883 6.542 6.542 0 00-1.439-1.44.75.75 0 01-.165-1.047zM.955 6.125a.75.75 0 01.624.857 6.554 6.554 0 000 2.036.75.75 0 01-1.482.233 8.054 8.054 0 010-2.502.75.75 0 01.858-.624zm14.09 0a.75.75 0 01.858.624 8.057 8.057 0 010 2.502.75.75 0 01-1.482-.233 6.55 6.55 0 000-2.036.75.75 0 01.624-.857zm-13.352 5.53a.75.75 0 011.048.165 6.542 6.542 0 001.439 1.44.75.75 0 01-.883 1.212 8.04 8.04 0 01-1.77-1.769.75.75 0 01.166-1.048zm12.614 0a.75.75 0 01.165 1.048 8.038 8.038 0 01-1.769 1.77.75.75 0 11-.883-1.214 6.543 6.543 0 001.44-1.439.75.75 0 011.047-.165zm-8.182 3.39a.75.75 0 01.857-.624 6.55 6.55 0 002.036 0 .75.75 0 01.233 1.482 8.057 8.057 0 01-2.502 0 .75.75 0 01-.624-.858z"/>
-                                </svg>
-                                <span class="no-wrap">0 <small>drafts</small></span>
-                            </div>
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#8B949E" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm3.28 5.78a.75.75 0 00-1.06-1.06l-5.5 5.5a.75.75 0 101.06 1.06l5.5-5.5z"/>
-                                </svg>
-                                <span class="no-wrap">0 <small>skipped</small></span>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="column">
-                        <h3 class="no-margin-top">Pull requests</h3>
-                        <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="220" height="8">
-                            <mask id="pr-bar">
-                                <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
-                            </mask>
-                            <rect mask="url(#pr-bar)" x="0" y="0" width="220" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#d2a8ff"/>
-                        </svg>
-                        <div class="followup legend field fill-width">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                </svg>
-                                <span class="no-wrap">0 <small>open</small></span>
-                            </div>
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                </svg>
-                                <span class="no-wrap">0 <small>merged</small></span>
-                            </div>
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#8B949E" d="M2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5zm9.5 3a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm0-3a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    <path d="M14 7.5a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0zm0-4.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"/>
-                                </svg>
-                                <span class="no-wrap">0 <small>drafts</small></span>
-                            </div>
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                </svg>
-                                <span class="no-wrap">0 <small>closed</small></span>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
             <section class="habits">
                 <h2 class="field wrap">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -339,8 +237,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,37C36.304,59,42.609,92,48.913,103C55.217,114,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,118.95,256.957,116.75C263.261,114.55,269.565,113.083,275.87,111.25C282.174,109.417,288.478,109.145,294.783,105.75C301.087,102.355,307.391,37,313.696,37C320,37,326.304,63.671,332.609,72.75C338.913,81.829,345.217,86.602,351.522,94.75C357.826,102.898,364.13,122.25,370.435,122.25C376.739,122.25,383.043,122.25,389.348,122.25C395.652,122.25,401.957,125,408.261,125C414.565,125,420.87,123.854,427.174,122.25C433.478,120.646,439.783,110.219,446.087,103C452.391,95.781,458.696,86.5,465,78.25L465,125Z" class="ct-area"/>
-                                        <path d="M30,37C36.304,59,42.609,92,48.913,103C55.217,114,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,118.95,256.957,116.75C263.261,114.55,269.565,113.083,275.87,111.25C282.174,109.417,288.478,109.145,294.783,105.75C301.087,102.355,307.391,37,313.696,37C320,37,326.304,63.671,332.609,72.75C338.913,81.829,345.217,86.602,351.522,94.75C357.826,102.898,364.13,122.25,370.435,122.25C376.739,122.25,383.043,122.25,389.348,122.25C395.652,122.25,401.957,125,408.261,125C414.565,125,420.87,123.854,427.174,122.25C433.478,120.646,439.783,110.219,446.087,103C452.391,95.781,458.696,86.5,465,78.25" class="ct-line"/>
+                                        <path d="M30,125L30,37C36.304,59,42.609,92,48.913,103C55.217,114,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,118.95,256.957,116.75C263.261,114.55,269.565,113.083,275.87,111.25C282.174,109.417,288.478,109.135,294.783,105.75C301.087,102.365,307.391,39.75,313.696,39.75C320,39.75,326.304,63.95,332.609,72.75C338.913,81.55,345.217,86.602,351.522,94.75C357.826,102.898,364.13,122.25,370.435,122.25C376.739,122.25,383.043,122.25,389.348,122.25C395.652,122.25,401.957,125,408.261,125C414.565,125,420.87,123.88,427.174,122.25C433.478,120.62,439.783,107.583,446.087,100.25C452.391,92.917,458.696,85.583,465,78.25L465,125Z" class="ct-area"/>
+                                        <path d="M30,37C36.304,59,42.609,92,48.913,103C55.217,114,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,118.95,256.957,116.75C263.261,114.55,269.565,113.083,275.87,111.25C282.174,109.417,288.478,109.135,294.783,105.75C301.087,102.365,307.391,39.75,313.696,39.75C320,39.75,326.304,63.95,332.609,72.75C338.913,81.55,345.217,86.602,351.522,94.75C357.826,102.898,364.13,122.25,370.435,122.25C376.739,122.25,383.043,122.25,389.348,122.25C395.652,122.25,401.957,125,408.261,125C414.565,125,420.87,123.88,427.174,122.25C433.478,120.62,439.783,107.583,446.087,100.25C452.391,92.917,458.696,85.583,465,78.25" class="ct-line"/>
                                         <line x1="30" y1="37" x2="30.01" y2="37" class="ct-point" ct:value="32"/>
                                         <line x1="48.913043478260875" y1="103" x2="48.92304347826087" y2="103" class="ct-point" ct:value="8"/>
                                         <line x1="67.82608695652175" y1="125" x2="67.83608695652175" y2="125" class="ct-point" ct:value="0"/>
@@ -356,16 +254,16 @@
                                         <line x1="256.95652173913044" y1="116.75" x2="256.9665217391304" y2="116.75" class="ct-point" ct:value="3"/>
                                         <line x1="275.8695652173913" y1="111.25" x2="275.8795652173913" y2="111.25" class="ct-point" ct:value="5"/>
                                         <line x1="294.7826086956522" y1="105.75" x2="294.7926086956522" y2="105.75" class="ct-point" ct:value="7"/>
-                                        <line x1="313.69565217391306" y1="37" x2="313.70565217391305" y2="37" class="ct-point" ct:value="32"/>
+                                        <line x1="313.69565217391306" y1="39.75" x2="313.70565217391305" y2="39.75" class="ct-point" ct:value="31"/>
                                         <line x1="332.60869565217394" y1="72.75" x2="332.6186956521739" y2="72.75" class="ct-point" ct:value="19"/>
                                         <line x1="351.5217391304348" y1="94.75" x2="351.5317391304348" y2="94.75" class="ct-point" ct:value="11"/>
                                         <line x1="370.4347826086957" y1="122.25" x2="370.4447826086957" y2="122.25" class="ct-point" ct:value="1"/>
                                         <line x1="389.34782608695656" y1="122.25" x2="389.35782608695655" y2="122.25" class="ct-point" ct:value="1"/>
                                         <line x1="408.26086956521743" y1="125" x2="408.2708695652174" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="427.1739130434783" y1="122.25" x2="427.1839130434783" y2="122.25" class="ct-point" ct:value="1"/>
-                                        <line x1="446.0869565217392" y1="103" x2="446.0969565217392" y2="103" class="ct-point" ct:value="8"/>
+                                        <line x1="446.0869565217392" y1="100.25" x2="446.0969565217392" y2="100.25" class="ct-point" ct:value="9"/>
                                         <line x1="465.00000000000006" y1="78.25" x2="465.01000000000005" y2="78.25" class="ct-point" ct:value="17"/>
-                                    <text x="30" y="32" class="ct-post">32</text><text x="48.913043478260875" y="98" class="ct-post">8</text><text x="256.95652173913044" y="111.75" class="ct-post">3</text><text x="275.8695652173913" y="106.25" class="ct-post">5</text><text x="294.7826086956522" y="100.75" class="ct-post">7</text><text x="313.69565217391306" y="32" class="ct-post">32</text><text x="332.60869565217394" y="67.75" class="ct-post">19</text><text x="351.5217391304348" y="89.75" class="ct-post">11</text><text x="370.4347826086957" y="117.25" class="ct-post">1</text><text x="389.34782608695656" y="117.25" class="ct-post">1</text><text x="427.1739130434783" y="117.25" class="ct-post">1</text><text x="446.0869565217392" y="98" class="ct-post">8</text><text x="465.00000000000006" y="73.25" class="ct-post">17</text></g>
+                                    <text x="30" y="32" class="ct-post">32</text><text x="48.913043478260875" y="98" class="ct-post">8</text><text x="256.95652173913044" y="111.75" class="ct-post">3</text><text x="275.8695652173913" y="106.25" class="ct-post">5</text><text x="294.7826086956522" y="100.75" class="ct-post">7</text><text x="313.69565217391306" y="34.75" class="ct-post">31</text><text x="332.60869565217394" y="67.75" class="ct-post">19</text><text x="351.5217391304348" y="89.75" class="ct-post">11</text><text x="370.4347826086957" y="117.25" class="ct-post">1</text><text x="389.34782608695656" y="117.25" class="ct-post">1</text><text x="427.1739130434783" y="117.25" class="ct-post">1</text><text x="446.0869565217392" y="95.25" class="ct-post">9</text><text x="465.00000000000006" y="73.25" class="ct-post">17</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -415,16 +313,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,23.25C39.5,22.333,49,20.5,58.5,20.5C68,20.5,77.5,97.5,87,97.5C96.5,97.5,106,72.75,115.5,72.75C125,72.75,134.5,110.765,144,114C153.5,117.235,163,119.5,172.5,119.5C182,119.5,191.5,59,201,28.75L201,125Z" class="ct-area"/>
-                                            <path d="M30,23.25C39.5,22.333,49,20.5,58.5,20.5C68,20.5,77.5,97.5,87,97.5C96.5,97.5,106,72.75,115.5,72.75C125,72.75,134.5,110.765,144,114C153.5,117.235,163,119.5,172.5,119.5C182,119.5,191.5,59,201,28.75" class="ct-line"/>
+                                            <path d="M30,125L30,23.25C39.5,21.417,49,17.75,58.5,17.75C68,17.75,77.5,100.25,87,100.25C96.5,100.25,106,72.75,115.5,72.75C125,72.75,134.5,110.765,144,114C153.5,117.235,163,119.5,172.5,119.5C182,119.5,191.5,59,201,28.75L201,125Z" class="ct-area"/>
+                                            <path d="M30,23.25C39.5,21.417,49,17.75,58.5,17.75C68,17.75,77.5,100.25,87,100.25C96.5,100.25,106,72.75,115.5,72.75C125,72.75,134.5,110.765,144,114C153.5,117.235,163,119.5,172.5,119.5C182,119.5,191.5,59,201,28.75" class="ct-line"/>
                                             <line x1="30" y1="23.25" x2="30.01" y2="23.25" class="ct-point" ct:value="37"/>
-                                            <line x1="58.5" y1="20.5" x2="58.51" y2="20.5" class="ct-point" ct:value="38"/>
-                                            <line x1="87" y1="97.5" x2="87.01" y2="97.5" class="ct-point" ct:value="10"/>
+                                            <line x1="58.5" y1="17.75" x2="58.51" y2="17.75" class="ct-point" ct:value="39"/>
+                                            <line x1="87" y1="100.25" x2="87.01" y2="100.25" class="ct-point" ct:value="9"/>
                                             <line x1="115.5" y1="72.75" x2="115.51" y2="72.75" class="ct-point" ct:value="19"/>
                                             <line x1="144" y1="114" x2="144.01" y2="114" class="ct-point" ct:value="4"/>
                                             <line x1="172.5" y1="119.5" x2="172.51" y2="119.5" class="ct-point" ct:value="2"/>
                                             <line x1="201" y1="28.75" x2="201.01" y2="28.75" class="ct-point" ct:value="35"/>
-                                        <text x="30" y="18.25" class="ct-post">37</text><text x="58.5" y="15.5" class="ct-post">38</text><text x="87" y="92.5" class="ct-post">10</text><text x="115.5" y="67.75" class="ct-post">19</text><text x="144" y="109" class="ct-post">4</text><text x="172.5" y="114.5" class="ct-post">2</text><text x="201" y="23.75" class="ct-post">35</text></g>
+                                        <text x="30" y="18.25" class="ct-post">37</text><text x="58.5" y="12.75" class="ct-post">39</text><text x="87" y="95.25" class="ct-post">9</text><text x="115.5" y="67.75" class="ct-post">19</text><text x="144" y="109" class="ct-post">4</text><text x="172.5" y="114.5" class="ct-post">2</text><text x="201" y="23.75" class="ct-post">35</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1494,105 +1392,9 @@
                     </g>
                 </svg>
             </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M0 8a8 8 0 1116 0v5.25a.75.75 0 01-1.5 0V8a6.5 6.5 0 10-13 0v5.25a.75.75 0 01-1.5 0V8zm5.5 4.25a.75.75 0 01.75-.75h3.5a.75.75 0 010 1.5h-3.5a.75.75 0 01-.75-.75zM3 6.75C3 5.784 3.784 5 4.75 5h6.5c.966 0 1.75.784 1.75 1.75v1.5A1.75 1.75 0 0111.25 10h-6.5A1.75 1.75 0 013 8.25v-1.5zm1.47-.53a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.06l-1.5 1.5a.75.75 0 01-1.06 0L8 7.81l-.97.97a.75.75 0 01-1.06 0l-1.5-1.5a.75.75 0 010-1.06z"/>
-                    </svg>
-                    Recent activity
-                </h2>
-                <div class="row">
-                    <section>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fiqgant/fiqgant</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8a7657d</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 22:52:01</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fiqgant/fiqgant</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dbeccb1</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 22:49:43</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fiqgant/fiqgant</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2e5d729</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 22:48:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fiqgant/fiqgant</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9cc23f3</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 22:40:32</div>
-                            </section>
-                        </div>
-                    </section>
-                </div>
-            </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Aug 2022, 22:53:01 (timezone Asia/Jakarta) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 15 Aug 2022, 22:57:29 (timezone Asia/Jakarta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
