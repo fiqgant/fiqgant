@@ -7,6 +7,7 @@
 <h3 align="center">Hey there, I’m Fiq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 <div align="center">
+  [![Personal Website](https://img.shields.io/website?color=blue&down_message=fiqlab&label=Personal%20Website&logo=gnometerminal&style=for-the-badge&up_color=%230000&up_message=fiqlab.dev&url=https%3A%2F%2Ffiqlab.dev)](https://shields.io/)
   <img src="https://img.shields.io/website?color=blue&down_message=fiqlab&label=Personal%20Website&logo=gnometerminal&style=for-the-badge&up_color=%230000&up_message=fiqlab.dev&url=https%3A%2F%2Ffiqlab.dev">
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
 </div>
