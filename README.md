@@ -86,7 +86,7 @@ npx tfqrrhmn
 
 <p align="left">
      <a href="mailto:fiqgant@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask TenTraicion" align="left">
+        <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Taufiq" align="left">
     </a>
     <a href="https://fiqlab.dev" style="text-decoration: none;">
         <img src="https://komarev.com/ghpvc/?username=fiqgant&label=Visitors&color=0e75b6&style=flat" alt="Viewers Count" align="right">
