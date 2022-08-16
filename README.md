@@ -7,10 +7,13 @@
 <h3 align="center">Hey there, I’m Fiq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 <div align="center">
-<a href="https://fiqlab.dev" style="text-decoration: none;">
-  <img href="https://fiqlab.dev" src="https://img.shields.io/website?color=blue&down_message=fiqlab&label=Personal%20Website&logo=gnometerminal&style=for-the-badge&up_color=%230000&up_message=fiqlab.dev&url=https%3A%2F%2Ffiqlab.dev">
-</a>
-   <img href="https://fiqlab.dev" src="https://img.shields.io/website?color=black&down_message=fiqlab&label=Virtual%20Gallery&logo=airplayvideo&style=for-the-badge&up_color=%&up_message=fiqart.vercel.app&url=https%3A%2F%2Ffiqart.vercel.app&">
+  <a href="https://fiqlab.dev" style="text-decoration: none;">
+    <img href="https://fiqlab.dev" src="https://img.shields.io/website?color=blue&down_message=fiqlab&label=Personal%20Website&logo=gnometerminal&style=for-the-badge&up_color=%230000&up_message=fiqlab.dev&url=https%3A%2F%2Ffiqlab.dev">
+  </a>
+  
+  <a href="fiqart.vercel.app" style="text-decoration: none;">
+    <img href="fiqart.vercel.app" src="https://img.shields.io/website?color=black&down_message=fiqlab&label=Virtual%20Gallery&logo=airplayvideo&style=for-the-badge&up_color=%&up_message=fiqart.vercel.app&url=https%3A%2F%2Ffiqart.vercel.app&">
+  </a>
 </div>
 
 <div align="center" href="https://open.spotify.com/user/vfhjxx90e265vhi0fr9n1ivp6">
