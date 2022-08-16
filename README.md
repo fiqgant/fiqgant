@@ -11,7 +11,7 @@
     <img href="https://fiqlab.dev" src="https://img.shields.io/website?color=blue&down_message=fiqlab&label=Personal%20Website&logo=gnometerminal&style=for-the-badge&up_color=%230000&up_message=fiqlab.dev&url=https%3A%2F%2Ffiqlab.dev">
   </a>
   
-  <a href="fiqart.vercel.app" style="text-decoration: none;">
+  <a href="https://fiqart.vercel.app" style="text-decoration: none;">
     <img href="fiqart.vercel.app" src="https://img.shields.io/website?color=black&down_message=fiqlab&label=Virtual%20Gallery&logo=airplayvideo&style=for-the-badge&up_color=%&up_message=fiqart.vercel.app&url=https%3A%2F%2Ffiqart.vercel.app&">
   </a>
 </div>
