@@ -27,9 +27,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=fiqgant&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF" alt="Streaks" width="400px">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fiqgant&bg_color=161b22&color=ffffff&line=4e6ada&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center"><img src="hhttps://github-readme-activity-graph.cyclic.app/graph?username=fiqgant&bg_color=161b22&color=ffffff&line=4e6ada&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"></p>
+[![Contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=fiqgant&bg_color=161b22&color=ffffff&line=4e6ada&point=ffffff&area=true&hide_border=true)](https://fiqlab.dev)
 
 <br>
 <p align="center"><strong>Connect with Me:</strong></p>
