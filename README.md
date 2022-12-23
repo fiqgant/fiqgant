@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqgant&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </p>
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=fiqgant&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"></p>
+<p align="center"><img src="hhttps://github-readme-activity-graph.cyclic.app/graph?username=fiqgant&bg_color=161b22&color=ffffff&line=4e6ada&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"></p>
 
 <br>
 <p align="center"><strong>Connect with Me:</strong></p>
