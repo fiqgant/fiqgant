@@ -29,6 +29,9 @@
 
 [![Contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=fiqgant&bg_color=161b22&color=ffffff&line=4e6ada&point=ffffff&area=true&hide_border=true)](https://fiqlab.dev)
 
+![snake](https://github.com/fiqgant/fiqgant/blob/output/github-contribution-grid-snake.svg)
+
+
 <br>
 <p align="center"><strong>Connect with Me:</strong></p>
 <p align="center">
