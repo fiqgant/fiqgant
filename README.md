@@ -29,7 +29,12 @@
 
 [![Contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=fiqgant&bg_color=161b22&color=ffffff&line=4e6ada&point=ffffff&area=true&hide_border=true)](https://fiqlab.dev)
 
-<p align="center"><img src="https://github.com/fiqgant/fiqgant/blob/output/github-contribution-grid-snake.svg" alt="Snake"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+    <img alt="github-snake" src="github-snake.svg">
+  </picture></p>
 
 
 <br>
