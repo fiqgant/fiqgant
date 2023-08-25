@@ -23,13 +23,6 @@
 <p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fiqgant&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5" alt="Stats" width="400px">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=fiqgant&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF" alt="Streaks" width="400px">
-</p>
-
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=fiqgant&bg_color=000119&color=ffffff&line=00a7fa&point=fef5ff&area=true&hide_border=true)](https://fiqlab.dev)
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fiqgant/fiqgant/blob/output/github-contribution-grid-snake-custom.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/fiqgant/fiqgant/blob/output/github-contribution-grid-custom.svg">
