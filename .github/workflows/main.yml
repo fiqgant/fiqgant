@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.32
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           
           user: fiqgant
           template: classic
