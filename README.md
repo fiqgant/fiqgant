@@ -16,10 +16,6 @@
   </a>
 </div>
 
-<div align="center" href="https://open.spotify.com/user/vfhjxx90e265vhi0fr9n1ivp6">
-  <img src="https://fiqspotify.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</div>
-
 <p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 
 <p align="center">
