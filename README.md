@@ -1,5 +1,3 @@
-<img src="Images/Rainbow.gif" width="100%">
-
 <div align="center">
   <img src="Images/profile.png" alt="fiq">
 </div>
@@ -39,37 +37,4 @@
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram Profile">
     </a>
 </p>
-<p align="center"><strong>Or,</strong></p>
-<ul>
-    <li>Open your Terminal</li>
-    <li>Run:</li>
-</ul>
 
-```bash
-npx tfqrrhmn
-```
-
-# Publication
-
-## Master's Thesis
-- *Linear Discriminant Analysis (LDA) On K-Nearest Neighbour (KNN) Algorithm For Attribute Reduction* [Pdf in Indonesian](https://repositori.usu.ac.id/bitstream/handle/123456789/47191/187038052.pdf?sequence=1&isAllowed=y)
-
-## Journal
-### 2022
-
-- *Analysis of Model-Free Reinforcement Learning Algorithm for Target Tracking.* Muhammad Fikry, Rizal Tjut Adek, Zulfhazli Zulfhazli, Subhan Hartanto, Taufiqurrahman, Dyah Ika Rinawati. **Journal of Computer Engineering, Electronics and Information Technology (COELITE)**. [Paper](https://ejournal.upi.edu/index.php/COELITE/article/view/43795)
-
-### 2021
-
-- *Analysis of Dimensional Reduction Effect on K-Nearest Neighbor Classification Method.* Taufiqurrahman, Erna Budhiarti Nababan, Syahril Efendi. **Sinkron : Jurnal dan Penelitian Teknik Informatika**. [Paper](https://jurnal.polgan.ac.id/index.php/sinkron/article/view/11234)
-
-<p align="left">
-     <a href="mailto:fiqgant@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Taufiq" align="left">
-    </a>
-    <a href="https://fiqlab.dev" style="text-decoration: none;">
-        <img src="https://komarev.com/ghpvc/?username=fiqgant&label=Visitors&color=0e75b6&style=flat" alt="Viewers Count" align="right">
-    </a>
-</p>
-
-<img src="Images/Rainbow.gif" width="100%">
